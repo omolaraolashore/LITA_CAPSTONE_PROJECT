@@ -42,3 +42,4 @@ This involves exploring the the Data to answer some questions which are needful 
 
 
 ####  Data visualization
+![popular product](https://github.com/user-attachments/assets/31f35d3d-5ba1-4b4b-adf3-f1b85259aae3)
