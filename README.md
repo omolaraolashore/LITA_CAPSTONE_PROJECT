@@ -1,2 +1,2 @@
 # LITA_CAPSTONE_PROJECT
-Project undertaken while Training at The Incubator Hub
+These are Projects undertaken while Training at The Incubator Hub
