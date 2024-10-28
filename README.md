@@ -20,13 +20,13 @@ The primary source of Data used here is the Sales Data provided by the company
 ###  Data cleaning and preparations
 ---
 When I got the raw Data,I did some
-   -1. Data loading and inspections
-   -2. Removed duplicates for efficient analysis
-   -3. Data cleaning and formatting
+- Data loading and inspections
+- Removal of duplicates for efficient analysis
+- Data cleaning and formatting
 
 ###  Exploratory Data Analysis
 ---
-This involves exploring the the Data to answer some questions which are needful for effective analysis.Questions such as
+This involves exploring the the Data to answer some questions which are needful for effective analysis. Questions such as
  - What is the total sales for each product category.
  - What is the number of sales transactions in each region.
  - Which is the highest-selling product by total sales value.
@@ -38,3 +38,7 @@ This involves exploring the the Data to answer some questions which are needful 
 
 ###  Data Analysis
 ---
+
+
+
+####  Data visualization
