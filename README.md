@@ -1,6 +1,6 @@
 # LITA_CAPSTONE_PROJECT
 
-###  Project Title: Unique Hub Sales Performance Analysis
+###  Project Title : Unique Hub Sales Performance Analysis
 
 ###  Project Overview
 ---
@@ -43,3 +43,4 @@ This involves exploring the the Data to answer some questions which are needful 
 
 ####  Data visualization
 ![popular product](https://github.com/user-attachments/assets/31f35d3d-5ba1-4b4b-adf3-f1b85259aae3)
+![popular product2](https://github.com/user-attachments/assets/966fdadd-6e5a-4459-b250-0ad483f8f349)
