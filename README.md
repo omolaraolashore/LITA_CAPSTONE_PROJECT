@@ -10,6 +10,6 @@ The primary source of Data used here is the Sales Data provided by the company
 
 ###  Tools used
 - Microsoft Excel for Data cleaning and analysis [Download Here](https://1drv.ms/x/c/a7c3aecf7c2c74b7/EeAOvisv5DNEjzCCV82C-FQB6oBdZX01oafZ_V36Su7STw?e=9QNaj7)
-- Structured Query Language(SQL) for quering of the Data
+- Structured Query Language(SQL) for quering of the Data [Download Here](https://1drv.ms/u/c/a7c3aecf7c2c74b7/EedFi05BUQhDs4J6Cscuoe4BADTNFx-y2v9Ijh__yjiTCw?e=r62WZn)
 - Microsoft PowerBI for visualization
 - Github for portfolio building
