@@ -44,3 +44,4 @@ This involves exploring the the Data to answer some questions which are needful 
 ####  Data visualization
 ![popular product](https://github.com/user-attachments/assets/31f35d3d-5ba1-4b4b-adf3-f1b85259aae3)
 ![popular product2](https://github.com/user-attachments/assets/966fdadd-6e5a-4459-b250-0ad483f8f349)
+<img width="467" alt="Unique Hub Sales Performance Dashboard" src="https://github.com/user-attachments/assets/cc35ef72-0f74-4f92-86b2-2c5103434bab">
