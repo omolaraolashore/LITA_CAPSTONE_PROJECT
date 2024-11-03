@@ -45,4 +45,5 @@ This involves exploring the the Data to answer some questions which are needful 
 ![popular product](https://github.com/user-attachments/assets/31f35d3d-5ba1-4b4b-adf3-f1b85259aae3)
 ![popular product2](https://github.com/user-attachments/assets/966fdadd-6e5a-4459-b250-0ad483f8f349)
 
-<img width="469" alt="LITA Capstone Sales Dashboard" src="https://github.com/user-attachments/assets/1b7b0853-626f-4d9e-bc8c-cf5971e68ba5">
+
+<img width="472" alt="LITA Capstone Sales Dashboard" src="https://github.com/user-attachments/assets/af03c85c-c82a-4361-99aa-54a083f3769b">
