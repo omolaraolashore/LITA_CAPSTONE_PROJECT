@@ -22,10 +22,13 @@ The primary source of Data used here is the Sales Data provided by the Sales dep
 
 ###  Data cleaning and preparations
 ---
-When I got the raw Data,I did some
-- Data loading and inspections
-- Removal of duplicates for efficient analysis
-- Data cleaning and formatting
+
+  1. **Data Cleaning**: Removed duplicates and standardized date formats.
+  2. **Pivot Tables**: Created pivot tables to analyze sales by product, region, and period,Total Revenue By Product	
+  3. **Visualization**: Used charts to visualize The most Popular Product [Download here][image](https://github.com/user-attachments/assets/efb52924-b204-4f35-a6f7-bde18e753003)
+
+4. **Formulas**: Applied Excel functions such as `SUMIF`, `AVERAGE`, and `VLOOKUP` for aggregating data and extracting insights.
+
 
 ###  Exploratory Data Analysis
 ---
