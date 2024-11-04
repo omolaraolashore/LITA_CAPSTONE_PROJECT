@@ -8,7 +8,10 @@ This  Project aims to evaluate and enhance the sales strategies of the organizat
 
 ### Data Sources
 ---
-The primary source of Data used here is the Sales Data provided by the Sales department of the company
+The primary source of Data used here is the Sales Data provided by the Sales department of the company. The Data given is table having an array of columns like
+  OrderID,	Customer Id,	Product,	Region,	OrderDate,	Quantity Sold and	UnitPrice
+![image](https://github.com/user-attachments/assets/0e561905-46cf-4250-9549-19f82b821dbe)
+
 
 ###  Tools used
 ---
