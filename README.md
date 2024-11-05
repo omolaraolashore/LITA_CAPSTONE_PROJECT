@@ -2,6 +2,21 @@
 
 ###  Project Title : Unique Hub Sales Performance Analysis
 
+[Project Overview](#Project-Overview)
+
+[Data Sources](#Data-Sources)
+
+[Tools used](#Tools-used)
+
+[Data cleaning and preparations](#Data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#Exploratory-Data-Analysis)
+
+[Key Findings](#Key_Findings)
+
+[Data visualization](#Data_visualization)
+
+---
 ###  Project Overview
 ---
 This  Project aims to evaluate and enhance the sales strategies of the organization by systematically analyzing sales data. The project involves tracking, measuring, and interpreting key performance indicators (KPIs) to understand trends, identify high- and low-performing areas, and optimize sales operations. By leveraging on the data given, I plan to gain insights that will inform targeted strategies for revenue growth, better customer engagement, and resource allocation.The Sales Performance Analysis  is an essential initiative to empower our sales teams with insights and tools to achieve higher efficiency and sustainable growth.
@@ -23,9 +38,9 @@ The primary source of Data used here is the Sales Data provided by the Sales dep
 ###  Data cleaning and preparations
 ---
 
-  1. **Data Cleaning**: Removed duplicates and standardized date formats.
-  2. **Pivot Tables**: Created pivot tables to analyze sales by product, region, and period,Total Revenue By Product	
-  3. **Visualization**: Used charts to visualize The most Popular Product [Download here][image](https://github.com/user-attachments/assets/efb52924-b204-4f35-a6f7-bde18e753003)
+  1. **Data Cleaning**: I removed duplicates and standardized date formats.
+  2. **Pivot Tables**: I created pivot tables to analyze sales by product, region, and period,Total Revenue By Product	
+  3. **Visualization**:I used charts to visualize The most Popular Product [Download here][image](https://github.com/user-attachments/assets/efb52924-b204-4f35-a6f7-bde18e753003)
   4. **Formulas**:I Applied Excel functions such as `SUMIF`, `AVERAGE`, and `VLOOKUP` for aggregating data and extracting insights.
      I also Applied Strcuctured Query Language codes like
      ```SQL
@@ -48,7 +63,7 @@ The primary source of Data used here is the Sales Data provided by the Sales dep
     ORDER BY 
     MONTH(OrderDate);  
 
-	    SELECT TOP 5 [CustomerName] , 
+    SELECT TOP 5 [CustomerName] , 
        SUM([Revenue]) AS TotalPurchaseAmount
     FROM [dbo].[LITA Capstone Dataset_CustomerData]
     GROUP BY [CustomerName]
@@ -71,7 +86,7 @@ The primary source of Data used here is the Sales Data provided by the Sales dep
     GROUP BY Product;
 ```
 
-	###  Exploratory Data Analysis
+###  Exploratory Data Analysis
 ---
 This involves exploring the the Data to answer some questions which are needful for effective analysis. Questions such as
  - What is the total sales for each product category.
