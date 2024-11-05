@@ -118,4 +118,5 @@ This involves exploring the the Data to answer some questions which are needful 
 <img width="129" alt="Revenue By Region" src="https://github.com/user-attachments/assets/022e9089-c81b-466a-b3a5-80f07e2c09f4">
 
 ####  Data visualization
-<img width="471" alt="Sales Performance Dashboard" src="https://github.com/user-attachments/assets/1d3dc40d-54bc-4430-9288-4057df6b9b17">
+
+<img width="470" alt="Unique Hub Sales Performance  Dashboard" src="https://github.com/user-attachments/assets/ba335094-b54a-4c89-9190-1847347a98c7">
